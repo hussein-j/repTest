@@ -1,10 +1,10 @@
 {
   "users": [
     {
-      "id": "EMP-001",
+      "id": "user1",
       "firstname": "Hussein",
-      "lastname": "Shyalika",
-      "email": "chathurangi@innovera.com"
+      "lastname": "Jaafar",
+      "email": "husseinj@gmail.com"
     }
   ]
 }
